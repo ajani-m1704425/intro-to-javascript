@@ -5,5 +5,8 @@ var country = "Nigeria"
 
 
 console.log("Name:", name);
+alert("Name: "+ name)
 console.log("Height:", height);
+alert("Height: "+ height)
 console.log("Nationality:", country)
+alert("Nationality: "+ country)
